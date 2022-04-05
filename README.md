@@ -1,9 +1,11 @@
 # Introduction
 •This python code imports csv file.
+
 •It also runs few queries over the data imported from the file
 
 # Steps
-1.Firstly, import libraries and csv file. In our case we have imported "Pandas" library which is powerful and flexible quantitative analysis tool used in data analytics.
+1. We have imported the required library to get started with pandas. "pandas" is the library which we have imported which imports all the inbuilt functionality associated with python.
+
 2.Secondly, setup connection to SQL server by adding username and password of MYSQL.
 3.After connecting to database we have created a select query which displays table contents of "vgsales".
 4.Then we have created a query in which we have displayed sum of total sales of action genre which have released after 2005.
