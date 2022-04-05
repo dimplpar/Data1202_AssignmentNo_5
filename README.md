@@ -1,6 +1,6 @@
 # Introduction
-•In this python code we will use SQL queries using python.
-•Also we will see how we can connect python with SQL database.
+•This python code imports csv file.
+•It also runs few queries over the data imported from the file
 
 # Steps
 1.Firstly, import libraries and csv file. In our case we have imported "Pandas" library which is powerful and flexible quantitative analysis tool used in data analytics.
